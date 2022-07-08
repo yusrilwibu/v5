@@ -4,7 +4,7 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'rtc yusril kawaii'
+global.nameowner = 'rtc yusril'
 global.numberowner = '6281376490773'
 global.instagram = 'no sosial'
 global.github = 'masi pemula'
@@ -13,7 +13,7 @@ global.pulsa = '081275274328'
 global.gopay = '081275274328'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'rtc kawai'
+global.namebot = 'rtc moskov'
 global.gc = 'kosong'
 global.web = 'minta ma owner' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -23,7 +23,7 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'rtc kawai'
+global.wm = 'rtc ganteng'
 global.watermark = wm
 global.wm2 = '                     「 Rtc kawaii あ⁩ 」'
 global.wm3 = '⫹⫺ Rtc kawaii'
