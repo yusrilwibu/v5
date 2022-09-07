@@ -1,14 +1,14 @@
 //=============『 Utama 』================== //
-global.owner = ['6281376490773'] 
+global.owner = ['6281275274328'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'rtc yusril'
-global.numberowner = '6281376490773'
+global.numberowner = '6281275274328'
 global.instagram = 'no sosial'
 global.github = 'masi pemula'
-global.dana = '881376490773'
+global.dana = '081376490773'
 global.pulsa = '081275274328'
 global.gopay = '081275274328'
 
